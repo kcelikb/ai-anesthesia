@@ -1,0 +1,7 @@
+# Ignore JupyterLab checkpoints and metadata
+.ipynb_checkpoints/
+.virtual_documents/
+*.pynb
+*.db
+anaconda_projects/
+
